@@ -53,3 +53,9 @@ Sample recommendations:
 
 Performance Table:
 ![img_9.png](img_9.png)
+
+<hr>
+
+## Acknowledgements:
+We are grateful to Prof. Tsui-Wei Weng, Teaching Assistants, Group 2 classmates, Halıcıoğlu Data Science Institute, 
+San Diego for their support, encouragement, and willingness to help us throughout this project.
