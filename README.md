@@ -1,4 +1,6 @@
-# dsc_210_course_project
+### Comic Book Recommendation System
+
+# DSC 210 Course Project
 
 ## Dataset:
 
